@@ -1,0 +1,8 @@
+{
+  "name": "Broadcast Console Pro",
+  "description": "Professional Live Presentation & Broadcast Console with Hybrid Recording and Real-time Sync.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
